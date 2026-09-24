@@ -1,0 +1,6 @@
+{
+  "name": "MemoFlow Notes & Reminders",
+  "description": "Rich note-taking app with smart scheduled reminders, checklists, tags, color-coded notes, search, and pinned priorities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
